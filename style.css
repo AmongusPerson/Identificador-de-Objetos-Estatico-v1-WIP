@@ -1,0 +1,9 @@
+body {
+    background-image: url(r.png);
+    background-size: 100%;
+    color: white;
+}
+
+#a {
+    font-size: 150%;
+}
